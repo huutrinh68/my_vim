@@ -11,9 +11,8 @@ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 :PluginInstall
 
 5. Install ctags
-brew install --HEAD universal-ctags/universal-ctags/universal-ctags
-
-Usage: ctags -R 
+brew install --HEAD universal-ctags/universal-ctags/universal-ctags  
+Usage: ctags -R    
 then Ctrl ] to jump go, Ctrl t to jump back
 
 
